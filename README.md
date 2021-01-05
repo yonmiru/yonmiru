@@ -6,7 +6,7 @@
 
 I'm YonMiru.
 
-- 🌱 I’m currently a Senior High Scholl Student
+- 🌱 I’m currently a Senior High School Student
 - 💬 Ask me anything , I'm happy to answer it.
 - 📫 Contacts: [E-mail] yonmiru@gmail.com / [Discord] YonMiru#00001 / [Twitter](https://twitter.com/yonnmiruu)
 - ⚡ Fun fact: I'm a writer and also a digital illustrator.

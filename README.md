@@ -12,4 +12,4 @@ I'm YonMiru.
 - ⚡ Fun fact: I'm a writer and also a digital illustrator.
 - 😁 I'm more like a private person
 
-![Discord Shield](https://discordapp.com/api/guilds/127498813903601664/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/guilds/747991294139301948/widget.png?style=shield)

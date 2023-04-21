@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome to my Github userpage
 
-<!--
-**jonzski/jonzski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jonah Perez (people also call me Jon, Jonzski), a college student from UPLB, who codes not so efficient yet but soon. I'm mostly self-taught in coding and prefers fullstack development. Yup, I can do both frontend and backend. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+
+Currently learning `C`, `C#`, JavaScript`, `TypeScript`, `Python`, `Java`.
+
+
+
+![DaijobuDes' github stats](https://github-readme-stats.vercel.app/api?username=jonzski&langs_count=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonzski&layout=compact&hide=html&langs_count=10)

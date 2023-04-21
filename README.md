@@ -1,6 +1,6 @@
 ## Welcome to my Github userpage
 
-I am Jonah Perez (people also call me Jon, Jonzski), a college student from UPLB, who codes not so efficient yet but soon. I'm mostly self-taught in coding and prefers fullstack development. Yup, I can do both frontend and backend. 
+I am Jonah Perez (people also call me Jon, Jonzski), a Computer Science student from University of the Philippines Los Baños, who codes not so efficient yet but soon. I'm mostly self-taught in coding and prefers fullstack development. Yup, I can do both frontend and backend. 
 
 
 ### Programming Languages

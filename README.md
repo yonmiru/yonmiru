@@ -5,7 +5,7 @@ I am Jonah Perez (people also call me Jon, Jonzski), a Computer Science student 
 
 ### Programming Languages
 
-Currently learning `C`, `C#`, `avaScript`, `TypeScript`, `Python`, `Java`.
+Currently learning `C`, `C#`, `JavaScript`, `TypeScript`, `Python`, `Java`.
 
 
 

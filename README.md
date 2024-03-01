@@ -9,6 +9,4 @@ Currently learning `C`, `C#`, `JavaScript`, `TypeScript`, `Python`, `Java`.
 
 
 
-![DaijobuDes' github stats](https://github-readme-stats.vercel.app/api?username=jonzski&langs_count=10)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonzski&layout=compact&hide=html&langs_count=10)
+![YonMiru' github stats](https://github-readme-stats.vercel.app/api?username=jonzski&langs_count=10)

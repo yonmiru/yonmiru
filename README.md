@@ -42,8 +42,3 @@
 
 ---
 
-## ☁️ Let’s Link
-[![Twitter](https://img.shields.io/badge/-@yonmiru_-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yonmiru)  
-
----
-

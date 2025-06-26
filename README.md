@@ -12,7 +12,7 @@
 ---
 
 ## 🌌 Tech & Tools I Vibe With
-![My Tech Stack](https://skillicons.dev/icons?i=blender,figma,html,css,js,ts,react,nextjs,tailwind,python)
+![My Tech Stack](https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nextjs,tailwind,python,bun,discord,discordjs,elysia,vite)
 
 ---
 
